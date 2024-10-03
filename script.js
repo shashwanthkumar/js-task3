@@ -57,17 +57,17 @@
 
 
 let clas = {
-    boys: 30,
-    girls: 20,
-    total: [30, 20],
-    marks: {
-        st1: "shashi",
-        rank: 49,
+    boys= 30,
+    girls= 20,
+    total= [30, 20],
+    marks= {
+        st1= "shashi",
+        rank= 49,
     },
-    pincode: 535558
+    pincode= 535558
 }
 let cls2 = {
-    gender: "male",
+    gender= "male",
 }
 
 // method-1:-
