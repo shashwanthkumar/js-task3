@@ -70,7 +70,7 @@ let cls2 = {
     gender= "male",
 }
 
-// method-1:-
+// method-1
 
 for (i in clas) {
     count = 0
@@ -86,14 +86,14 @@ for (i in clas) {
 }
 console.log(clas)
 
-//Method-2:-
+//Method-2
 
 console.log(Object.keys(clas))
 console.log(Object.keys(clas).includes("boys"))
 let st = { staf: 10 }
 console.log(Object.assign(clas, st))
 
-//method-3:-
+//method-3
 
 let values = Object.keys(clas);
 console.log(values);
